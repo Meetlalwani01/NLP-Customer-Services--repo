@@ -1,0 +1,10 @@
+# Problem Statement
+
+
+To run a company, it is important to analyze the customer feedback and incorporate them into the company’s functioning. But the large amount of feedback makes it very difficult to deal
+with them manually therefore there is a need for an automated system to efficiently analyze them.We have provided a similar dataset involving the consumer complaints, your task is to
+train a model which shall be analyzing these feedbacks, along with the added features and predict the domains to which the feedback belongs( the domains of the complaints are in the
+‘Product’ column of the dataset). 
+
+Training and Test data can be found here: 
+https://drive.google.com/drive/folders/1qCOiY1Eg_7EN1CjHRSDF5zCZQb4GRq1e
